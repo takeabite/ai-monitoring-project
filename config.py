@@ -1,7 +1,7 @@
 # config.py
 # Telegram 설정
-TELEGRAM_TOKEN = "8241727073:AAGDxtB-nvX4axPCnGczOGBqo9xryO3GMdw"
-TELEGRAM_CHAT_ID = "5100081132"
+TELEGRAM_TOKEN = "TELEGRAM_TOKEN"
+TELEGRAM_CHAT_ID = "TELEGRAM_CHAT_ID"
 
 # 이상탐지/운영 파라미터
 CONTAMINATION = 0.03    # AutoEncoder에서는 참고용; 실제 threshold는 재구성오차로 결정
